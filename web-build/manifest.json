@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "Test app with multiple choice questions",
+  "display": "standalone",
+  "lang": "en",
+  "name": "test-app",
+  "short_name": "test-app",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}
